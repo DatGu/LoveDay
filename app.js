@@ -24,5 +24,5 @@ document.addEventListener('DOMContentLoaded', function(){
     
       );
             alert('LOVE YOU TO THE MOON AND BACK');
-            alert('Yêu Emm Nhiềuu Lắmmm!!!!');
+            alert('Yêu Emm Nhiềuu Lắmmm!!!!') ;
 }, false);
