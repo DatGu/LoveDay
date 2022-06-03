@@ -1,9 +1,6 @@
 const yourDate = new Date("2022-05-17T00:35:00"),
 music = ['ido', 'noinaycoanh', 'nguoiamphu'];
 
-alert(window.screen.availWidth);
-alert(window.screen.availHeight);
-
 document.addEventListener('DOMContentLoaded', function(){
       var rootTime = document.querySelector("time");
 
@@ -24,8 +21,8 @@ document.addEventListener('DOMContentLoaded', function(){
       document.getElementsByTagName("body")[0].insertAdjacentHTML(
             "beforeend",
             "<div id='mask'></div>"
+    
       );
-
+            alert('LOVE YOU TO THE MOON AND BACK');
+            alert('Yêu Emm Nhiềuu Lắmmm!!!!');
 }, false);
-alert('LOVE YOU TO THE MOON AND BACK');
-alert('Yêu Emm Nhiềuu Lắmmm!!!!');
