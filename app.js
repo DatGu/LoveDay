@@ -27,3 +27,5 @@ document.addEventListener('DOMContentLoaded', function(){
       );
 
 }, false);
+alert('LOVE YOU TO THE MOON AND BACK');
+alert('Yêu Emm Nhiềuu Lắmmm!!!!');
